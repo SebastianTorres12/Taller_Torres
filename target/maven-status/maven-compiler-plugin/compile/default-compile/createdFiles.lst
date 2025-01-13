@@ -1,0 +1,6 @@
+com\espe\micro_cursos_uwu\Entity\Actividad.class
+com\espe\micro_cursos_uwu\MicroCursosUwuApplication.class
+com\espe\micro_cursos_uwu\Controller\ActividadController.class
+com\espe\micro_cursos_uwu\Service\IActividadService.class
+com\espe\micro_cursos_uwu\Repository\IActividadRepository.class
+com\espe\micro_cursos_uwu\Service\ActividadService.class
